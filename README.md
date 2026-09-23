@@ -7,7 +7,7 @@
 </p>
 
 <h1>Melissa Inacio Dos Santos</h1>
-<p><b>Freelance developer or consultant</b></p>
+<p><b>Student</b></p>
 
 </div>
 
